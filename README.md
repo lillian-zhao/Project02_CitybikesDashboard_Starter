@@ -59,12 +59,19 @@ Challenge 7: **Specs for Bike Type Plot Component(`bike-type-plot.js`)**
 >
 >Challenge 7.5: Color
 
+<h3>Your Choice Visualization (AI-Assisted):</h3>
+
+Challenge 8: **Your Choice Visualization**
+>Step 1: Choose a visualization from the provided list.
+>
+>Step 2: Use an AI tool (e.g. Gemini, ChatGPT, Cursor) to help implement it.
+
 <h3>Deployment:</h3>
 
-Challenge 8: **Deploying Your Dashboard**
->Challenge 8.1: Setting Up Local Configurations
+Challenge 9: **Deploying Your Dashboard**
+>Challenge 9.1: Setting Up Local Configurations
 >
->Challenge 8.2: Deploying the Application
+>Challenge 9.2: Deploying the Application
 
 <hr>
 
